@@ -1,0 +1,12 @@
+PODS:
+  - SwiftChart (1.0.1)
+
+DEPENDENCIES:
+  - SwiftChart
+
+SPEC CHECKSUMS:
+  SwiftChart: ba767a678d568a5ee22d419e146a0582865e1aff
+
+PODFILE CHECKSUM: b5ab1bc94b445e1b6433ccf5a93fdcfbf2c8eb63
+
+COCOAPODS: 1.4.0
